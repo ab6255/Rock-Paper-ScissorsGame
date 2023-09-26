@@ -1,4 +1,3 @@
-# Auto detect text files and perform LF normalization
 import tkinter as tk
 import random
 import sqlite3
@@ -89,4 +88,3 @@ display_leaderboard()
 
 # Start the main loop
 window.mainloop()
-* text=auto
